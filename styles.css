@@ -310,6 +310,7 @@ img {
   clip: rect(0 0 0 0);
   overflow: hidden;
 }
+
 .button-list {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
